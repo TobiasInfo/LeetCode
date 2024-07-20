@@ -2,7 +2,7 @@
 
 ## Authors
 
-- [Tobias SAVARY]
+- Tobias SAVARY
 
 ## Project Description
 
